@@ -65,6 +65,7 @@
   .fact .k { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
   .fact .v { font-weight: 600; margin-top: 2px; }
   .fact .s { color: var(--muted); font-size: .9rem; }
+  .booked { display: inline-block; margin-left: 6px; font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; padding: 1px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); vertical-align: 2px; }
   h2 { font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: 1.4rem; margin: 40px 0 14px; }
   .day { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin-bottom: 16px; }
   .day.bday { border-color: var(--bday); background: linear-gradient(var(--bday-soft), var(--surface) 90px); }
@@ -80,6 +81,7 @@
   .note { display: inline-block; margin-top: 4px; font-size: .85rem; color: var(--bday); font-weight: 500; }
   ul.plain { list-style: none; margin: 0; padding: 0; }
   ul.plain li { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 8px; }
+  .checklist input:disabled { cursor: default; }
   .checklist label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
   .checklist input { margin-top: 4px; accent-color: var(--accent); }
   .checklist input:checked + span { color: var(--muted); text-decoration: line-through; }
@@ -103,14 +105,14 @@
       <div class="s">4 nights</div>
     </div>
     <div class="fact">
-      <div class="k">Hotel</div>
+      <div class="k">Hotel <span class="booked">Booked</span></div>
       <div class="v"><a href="https://www.rosewoodhotels.com/en/hotel-georgia-vancouver">Rosewood Hotel Georgia</a></div>
       <div class="s">801 West Georgia St, Vancouver, BC V6C 1P7</div>
     </div>
     <div class="fact">
-      <div class="k">Flights</div>
-      <div class="v">STS → YVR, Alaska</div>
-      <div class="s">1 stop via PDX or SEA · ~$385–430 pp RT</div>
+      <div class="k">Flights <span class="booked">Booked</span></div>
+      <div class="v">STS ⇄ YVR, Alaska</div>
+      <div class="s">Round-trip, one stop</div>
     </div>
   </div>
 
@@ -161,16 +163,16 @@
     <li><strong>Kissa Tanto</strong> <span class="addr">· Chinatown</span> — Japanese-Italian fusion, books up fast</li>
   </ul>
 
-  <h2>Flights</h2>
+  <h2>Travel &amp; stay</h2>
   <ul class="plain">
-    <li>STS → YVR, one stop via Portland (PDX) or Seattle (SEA), Alaska Airlines</li>
-    <li>~$385–430 per person round-trip; Portland routing ~1 hr shorter each way for similar price</li>
+    <li><strong>Flights</strong> <span class="booked">Booked</span><br>STS ⇄ YVR round-trip on Alaska Airlines, one stop</li>
+    <li><strong>Rosewood Hotel Georgia</strong> <span class="booked">Booked</span><br>Thu 10/22 – Mon 10/26, 4 nights</li>
   </ul>
 
   <h2>To book</h2>
   <ul class="plain checklist" id="todo">
-    <li><label><input type="checkbox"><span>Flights — STS ⇄ YVR, Alaska (PDX routing preferred)</span></label></li>
-    <li><label><input type="checkbox"><span>Rosewood Hotel Georgia, 10/22–10/26</span></label></li>
+    <li><label><input type="checkbox" checked disabled><span>Flights — STS ⇄ YVR, Alaska</span></label></li>
+    <li><label><input type="checkbox" checked disabled><span>Rosewood Hotel Georgia, 10/22–10/26</span></label></li>
     <li><label><input type="checkbox"><span>L'Abattoir — Thu 10/22</span></label></li>
     <li><label><input type="checkbox"><span>Five Sails — Fri 10/23 (phone / direct)</span></label></li>
     <li><label><input type="checkbox"><span>Capilano — car or tour, Sat 10/24</span></label></li>
@@ -183,8 +185,8 @@
 </div>
 <script>
   (function () {
-    var KEY = 'lm-bday26-vancouver-todo';
-    var boxes = document.querySelectorAll('#todo input');
+    var KEY = 'lm-bday26-vancouver-todo-v2';
+    var boxes = document.querySelectorAll('#todo input:not([disabled])');
     var saved = [];
     try { saved = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) {}
     boxes.forEach(function (b, i) {

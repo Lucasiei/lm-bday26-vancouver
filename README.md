@@ -44,15 +44,15 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - Chinatown BBQ — modern Cantonese roast meats
 - Kissa Tanto — Chinatown, Japanese-Italian fusion, books up fast
 
-## Flights
+## Travel & stay — booked ✅
 
-- STS → YVR, one stop via Portland (PDX) or Seattle (SEA), Alaska Airlines
-- ~$385–430 per person round-trip; Portland routing ~1 hr shorter each way for similar price
+- **Flights:** STS ⇄ YVR round-trip on Alaska Airlines, one stop
+- **Hotel:** Rosewood Hotel Georgia, Thu 10/22 – Mon 10/26 (4 nights)
 
 ## To book
 
-- [ ] Flights (STS ⇄ YVR, Alaska — PDX routing preferred)
-- [ ] Rosewood Hotel Georgia, 10/22–10/26
+- [x] Flights (STS ⇄ YVR, Alaska)
+- [x] Rosewood Hotel Georgia, 10/22–10/26
 - [ ] L'Abattoir — Thu 10/22
 - [ ] Five Sails — Fri 10/23 (phone / direct)
 - [ ] Capilano — car or tour, Sat 10/24
