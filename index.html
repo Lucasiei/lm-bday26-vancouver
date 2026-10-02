@@ -1,0 +1,200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vancouver Birthday Trip</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #f6f3ee;
+    --surface: #ffffff;
+    --ink: #1d2a2f;
+    --muted: #5f6b70;
+    --line: #e3ddd3;
+    --accent: #1f5c63;
+    --accent-soft: #e2eeee;
+    --bday: #a8452d;
+    --bday-soft: #f7e6df;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #121719;
+      --surface: #1a2124;
+      --ink: #e8ecec;
+      --muted: #9aa6aa;
+      --line: #2b3539;
+      --accent: #7cc0c6;
+      --accent-soft: #1c3134;
+      --bday: #e79a82;
+      --bday-soft: #3a2420;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #121719;
+    --surface: #1a2124;
+    --ink: #e8ecec;
+    --muted: #9aa6aa;
+    --line: #2b3539;
+    --accent: #7cc0c6;
+    --accent-soft: #1c3134;
+    --bday: #e79a82;
+    --bday-soft: #3a2420;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.55 Inter, system-ui, sans-serif;
+  }
+  a { color: var(--accent); text-underline-offset: 2px; }
+  .wrap { max-width: 760px; margin: 0 auto; padding: 40px 16px 64px; }
+  header h1 {
+    font-family: Fraunces, Georgia, serif;
+    font-weight: 600;
+    font-size: clamp(2rem, 6vw, 2.75rem);
+    line-height: 1.1;
+    margin: 0 0 8px;
+  }
+  header .who { color: var(--muted); margin: 0 0 20px; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin-bottom: 36px; }
+  .fact { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 16px; }
+  .fact .k { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
+  .fact .v { font-weight: 600; margin-top: 2px; }
+  .fact .s { color: var(--muted); font-size: .9rem; }
+  h2 { font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: 1.4rem; margin: 40px 0 14px; }
+  .day { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin-bottom: 16px; }
+  .day.bday { border-color: var(--bday); background: linear-gradient(var(--bday-soft), var(--surface) 90px); }
+  .day-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 10px; }
+  .day-head .date { font-family: Fraunces, Georgia, serif; font-size: 1.25rem; font-weight: 600; }
+  .tag { font-size: .75rem; font-weight: 600; padding: 2px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); }
+  .bday .tag { background: var(--bday-soft); color: var(--bday); }
+  .slot { display: grid; grid-template-columns: 110px 1fr; gap: 12px; padding: 10px 0; border-top: 1px solid var(--line); }
+  .slot:first-of-type { border-top: 0; }
+  .when { font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); padding-top: 3px; }
+  .what strong { font-weight: 600; }
+  .addr { color: var(--muted); font-size: .9rem; }
+  .note { display: inline-block; margin-top: 4px; font-size: .85rem; color: var(--bday); font-weight: 500; }
+  ul.plain { list-style: none; margin: 0; padding: 0; }
+  ul.plain li { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 8px; }
+  .checklist label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
+  .checklist input { margin-top: 4px; accent-color: var(--accent); }
+  .checklist input:checked + span { color: var(--muted); text-decoration: line-through; }
+  footer { margin-top: 40px; color: var(--muted); font-size: .85rem; }
+  @media (max-width: 520px) {
+    .slot { grid-template-columns: 1fr; gap: 2px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Vancouver Birthday Trip</h1>
+    <p class="who">Lucas &amp; Genevieve</p>
+  </header>
+
+  <div class="facts">
+    <div class="fact">
+      <div class="k">Dates</div>
+      <div class="v">Thu 10/22 – Mon 10/26, 2026</div>
+      <div class="s">4 nights</div>
+    </div>
+    <div class="fact">
+      <div class="k">Hotel</div>
+      <div class="v"><a href="https://www.rosewoodhotels.com/en/hotel-georgia-vancouver">Rosewood Hotel Georgia</a></div>
+      <div class="s">801 West Georgia St, Vancouver, BC V6C 1P7</div>
+    </div>
+    <div class="fact">
+      <div class="k">Flights</div>
+      <div class="v">STS → YVR, Alaska</div>
+      <div class="s">1 stop via PDX or SEA · ~$385–430 pp RT</div>
+    </div>
+  </div>
+
+  <h2>Itinerary</h2>
+
+  <section class="day">
+    <div class="day-head"><span class="date">Thursday 10/22</span><span class="tag">Arrival</span></div>
+    <div class="slot"><div class="when">Afternoon</div><div class="what">Arrive &amp; check in at Rosewood. Settle in, drop bags, decompress from travel.</div></div>
+    <div class="slot"><div class="when">Late afternoon</div><div class="what"><strong><a href="https://www.vanartgallery.bc.ca/visit/">Vancouver Art Gallery</a></strong> <span class="addr">· 750 Hornby St</span><br>Literally across the street from the hotel — easy first stop.</div></div>
+    <div class="slot"><div class="when">Evening</div><div class="what">Dinner at <strong><a href="https://www.labattoir.ca/">L'Abattoir</a></strong> <span class="addr">· 217 Carrall St, Gastown</span><br>Acclaimed French-inspired West Coast cooking, short walk from the hotel.</div></div>
+  </section>
+
+  <section class="day bday">
+    <div class="day-head"><span class="date">Friday 10/23</span><span class="tag">Birthday 🎂</span></div>
+    <div class="slot"><div class="when">Morning</div><div class="what"><strong><a href="https://vancouverchinesegarden.com/">Dr. Sun Yat-Sen Classical Chinese Garden</a></strong> <span class="addr">· 578 Carrall St, Chinatown</span><br>Quiet, beautiful start to the day.</div></div>
+    <div class="slot"><div class="when">Midday</div><div class="what">Lunch at <strong><a href="https://fatmaonoodles.com/">Fat Mao Noodles</a></strong> <span class="addr">· 217 E Georgia St, Chinatown</span><br>The homemade noodle spot — open kitchen, hand-cut noodles.</div></div>
+    <div class="slot"><div class="when">Afternoon</div><div class="what"><strong>Wander Chinatown → Gastown</strong><br>Shops, New Town Bakery for a snack, Steam Clock on the hour.</div></div>
+    <div class="slot"><div class="when">Evening</div><div class="what">Birthday dinner at <strong><a href="https://glowbalgroup.com/five-sails/">Five Sails Restaurant</a></strong> <span class="addr">· 999 Canada Place</span><br>Coal Harbour waterfront views; comes up again and again in reviews as a birthday pick.<br><span class="note">Not on OpenTable — book direct or by phone.</span></div></div>
+  </section>
+
+  <section class="day">
+    <div class="day-head"><span class="date">Saturday 10/24</span><span class="tag">Park &amp; North Shore</span></div>
+    <div class="slot"><div class="when">Morning</div><div class="what"><strong>Stanley Park Seawall</strong> (<a href="https://vancouver.ca/parks-recreation-culture/stanley-park.aspx">info</a>)<br>Walk or rent bikes, hit the Brockton Point totem poles.</div></div>
+    <div class="slot"><div class="when">Midday</div><div class="what">Casual lunch near the West End.</div></div>
+    <div class="slot"><div class="when">Afternoon</div><div class="what"><strong><a href="https://www.capbridge.com/">Capilano Suspension Bridge Park</a></strong> <span class="addr">· 3735 Capilano Rd, North Vancouver</span><br>North Shore canyon walk. <span class="note">Book a car or tour, ~30 min each way.</span></div></div>
+    <div class="slot"><div class="when">Evening</div><div class="what">Dinner at <strong><a href="https://www.bao-bei.ca/">Bao Bei Chinese Brasserie</a></strong> <span class="addr">· 163 Keefer St, Chinatown</span><br>Moody, romantic small plates. <span class="note">Reservations via Tock.</span></div></div>
+  </section>
+
+  <section class="day">
+    <div class="day-head"><span class="date">Sunday 10/25</span><span class="tag">Market &amp; Spa</span></div>
+    <div class="slot"><div class="when">Morning</div><div class="what"><strong><a href="https://granvilleisland.com/public-market">Granville Island Public Market</a></strong><br>Aquabus over, browse the Railspur District behind the market crowds.</div></div>
+    <div class="slot"><div class="when">Midday</div><div class="what">Lunch at the Market — pick from the food stalls.</div></div>
+    <div class="slot"><div class="when">Afternoon</div><div class="what"><strong>Sense, A Rosewood Spa</strong> <span class="addr">· in-hotel</span><br>Saltwater pool, treatments.</div></div>
+    <div class="slot"><div class="when">Evening</div><div class="what">Final dinner at <strong><a href="https://mikurestaurant.com/">Miku</a></strong> <span class="addr">· 200 Granville St</span><br>Waterfront aburi sushi, relaxed close to the trip.</div></div>
+  </section>
+
+  <section class="day">
+    <div class="day-head"><span class="date">Monday 10/26</span><span class="tag">Departure</span></div>
+    <div class="slot"><div class="when">Morning</div><div class="what">Light breakfast at the hotel (Bel Café), check out, head to YVR.</div></div>
+  </section>
+
+  <h2>Other restaurant options</h2>
+  <ul class="plain">
+    <li><strong><a href="https://www.bluewatercafe.ca/">Blue Water Cafe</a></strong> <span class="addr">· 1095 Hamilton St, Yaletown</span> — seafood</li>
+    <li><strong><a href="https://elisasteak.com/">Elisa Steakhouse</a></strong> <span class="addr">· 1109 Hamilton St, Yaletown</span> — steakhouse</li>
+    <li><strong><a href="https://www.rosewoodhotels.com/en/hotel-georgia-vancouver">Hawksworth Restaurant</a></strong> <span class="addr">· in-hotel</span> — contemporary Canadian</li>
+    <li><strong>Chinatown BBQ</strong> — modern Cantonese roast meats</li>
+    <li><strong>Kissa Tanto</strong> <span class="addr">· Chinatown</span> — Japanese-Italian fusion, books up fast</li>
+  </ul>
+
+  <h2>Flights</h2>
+  <ul class="plain">
+    <li>STS → YVR, one stop via Portland (PDX) or Seattle (SEA), Alaska Airlines</li>
+    <li>~$385–430 per person round-trip; Portland routing ~1 hr shorter each way for similar price</li>
+  </ul>
+
+  <h2>To book</h2>
+  <ul class="plain checklist" id="todo">
+    <li><label><input type="checkbox"><span>Flights — STS ⇄ YVR, Alaska (PDX routing preferred)</span></label></li>
+    <li><label><input type="checkbox"><span>Rosewood Hotel Georgia, 10/22–10/26</span></label></li>
+    <li><label><input type="checkbox"><span>L'Abattoir — Thu 10/22</span></label></li>
+    <li><label><input type="checkbox"><span>Five Sails — Fri 10/23 (phone / direct)</span></label></li>
+    <li><label><input type="checkbox"><span>Capilano — car or tour, Sat 10/24</span></label></li>
+    <li><label><input type="checkbox"><span>Bao Bei — Sat 10/24 (Tock)</span></label></li>
+    <li><label><input type="checkbox"><span>Sense spa treatments — Sun 10/25</span></label></li>
+    <li><label><input type="checkbox"><span>Miku — Sun 10/25</span></label></li>
+  </ul>
+
+  <footer>Checkbox state is saved in this browser only.</footer>
+</div>
+<script>
+  (function () {
+    var KEY = 'lm-bday26-vancouver-todo';
+    var boxes = document.querySelectorAll('#todo input');
+    var saved = [];
+    try { saved = JSON.parse(localStorage.getItem(KEY) || '[]'); } catch (e) {}
+    boxes.forEach(function (b, i) {
+      b.checked = !!saved[i];
+      b.addEventListener('change', function () {
+        var state = Array.prototype.map.call(boxes, function (x) { return x.checked; });
+        try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+      });
+    });
+  })();
+</script>
+</body>
+</html>
