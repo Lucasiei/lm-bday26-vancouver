@@ -11,7 +11,9 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **11:40 AM** — Land at YVR (AS 2225 from Portland, seats 12C/12D). Clear customs, then Canada Line to Vancouver City Centre station (~25 min, a block from the hotel) or a cab.
 - **Afternoon** — Check in at Rosewood (drop bags if the room isn't ready), grab lunch nearby, settle in and decompress.
 - **Late afternoon** — [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/visit/) (750 Hornby St) — literally across the street from the hotel, easy first stop.
-- **Evening** — Dinner at [L'Abattoir](https://www.labattoir.ca/) (217 Carrall St, Gastown) — acclaimed French-inspired West Coast cooking, short walk from the hotel.
+- **Evening** — Casual dinner, play it by ear (nothing booked). Good options close to the hotel:
+  - [Nightingale](https://www.opentable.com/r/nightingale-vancouver) (1017 W Hastings St, ~8 min walk) — Hawksworth's casual spot: wood-fired pizza, house-made pasta, shared plates. On OpenTable if you want to grab a table that day.
+  - [Guu Original Thurlow](https://guu-izakaya.com/original_qr/) (838 Thurlow St, ~8 min walk) — lively Japanese izakaya, small plates and drinks. Guu Toramasa (757 Seymour St, ~5 min) is even closer.
 
 ## Friday 10/23 — Birthday 🎂
 
@@ -42,6 +44,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Other restaurant options considered
 
+- [L'Abattoir](https://www.labattoir.ca/) — 217 Carrall St, Gastown (French-inspired West Coast fine dining)
 - [Blue Water Cafe](https://www.bluewatercafe.ca/) — 1095 Hamilton St, Yaletown (seafood)
 - [Elisa Steakhouse](https://elisasteak.com/) — 1109 Hamilton St, Yaletown (steakhouse)
 - [Hawksworth Restaurant](https://www.rosewoodhotels.com/en/hotel-georgia-vancouver) — in-hotel, contemporary Canadian
@@ -65,7 +68,6 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 - [x] Flights (STS ⇄ YVR, Alaska)
 - [x] Rosewood Hotel Georgia, 10/22–10/26
-- [ ] L'Abattoir — Thu 10/22
 - [x] Five Sails — Fri 10/23, 7:30 PM
 - [ ] Capilano — car or tour, Sat 10/24
 - [ ] Bao Bei — Sat 10/24 (Tock)
