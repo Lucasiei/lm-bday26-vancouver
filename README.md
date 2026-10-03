@@ -7,6 +7,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Thursday 10/22 — Arrival
 
+- **8:07 AM** — Fly out of Santa Rosa: AS 3335 STS → PDX, lands 9:50 AM. Short 38-min connection in Portland to AS 2225 (departs 10:28 AM).
 - **11:40 AM** — Land at YVR (AS 2225 from Portland, seats 12C/12D). Clear customs, then Canada Line to Vancouver City Centre station (~25 min, a block from the hotel) or a cab.
 - **Afternoon** — Check in at Rosewood (drop bags if the room isn't ready), grab lunch nearby, settle in and decompress.
 - **Late afternoon** — [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/visit/) (750 Hornby St) — literally across the street from the hotel, easy first stop.
@@ -37,7 +38,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 - **Morning** — Light breakfast at the hotel (Bel Café) and check out.
 - **~10:00 AM** — Leave for YVR (Canada Line or cab, ~30 min). Aim to arrive 2 hours early for US preclearance.
-- **12:35 PM** — Fly home: AS 2321 YVR → PDX, lands 1:53 PM, seats 12C/12D.
+- **12:35 PM** — Fly home: AS 2321 YVR → PDX, lands 1:53 PM. 1 hr 13 min layover, then AS 3483 PDX 3:06 PM → STS, home by 4:55 PM.
 
 ## Other restaurant options considered
 
@@ -49,12 +50,14 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Travel & stay — booked ✅
 
-- **Flights:** STS ⇄ YVR on Alaska Airlines via Portland. Vancouver legs are Horizon Air Embraer 175s, Main Preferred seats 12C (Lucas) / 12D (Genevieve).
+- **Flights:** STS ⇄ YVR on Alaska Airlines via Portland. All legs are Embraer 175s (Santa Rosa legs SkyWest, Vancouver legs Horizon). Main Preferred seats 12C (Lucas) / 12D (Genevieve) on every leg.
 
   | Date | Flight | Route | Departs | Arrives |
   |---|---|---|---|---|
+  | Thu 10/22 | AS 3335 | STS → PDX | 8:07 AM | 9:50 AM |
   | Thu 10/22 | AS 2225 | PDX → YVR | 10:28 AM | 11:40 AM |
   | Mon 10/26 | AS 2321 | YVR → PDX | 12:35 PM | 1:53 PM |
+  | Mon 10/26 | AS 3483 | PDX → STS | 3:06 PM | 4:55 PM |
 
 - **Hotel:** Rosewood Hotel Georgia, Thu 10/22 – Mon 10/26 (4 nights)
 
