@@ -18,7 +18,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **Morning** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown) — quiet, beautiful start to the day.
 - **Midday** — Lunch at [Fat Mao Noodles](https://fatmaonoodles.com/) (217 E Georgia St, Chinatown) — the homemade noodle spot, open kitchen, hand-cut noodles.
 - **Afternoon** — Wander Chinatown → Gastown — shops, New Town Bakery for a snack, Steam Clock on the hour.
-- **Evening** — Birthday dinner at [Five Sails Restaurant](https://glowbalgroup.com/five-sails/) (999 Canada Place) — Coal Harbour waterfront views, comes up again and again in reviews as a birthday pick. *Not on OpenTable — book direct or by phone.*
+- **7:30 PM** — Birthday dinner at [Five Sails Restaurant](https://glowbalgroup.com/five-sails/) (999 Canada Place) — **booked ✅**, table for 2 under Lucas Mays. Coal Harbour waterfront views. Restaurant phone: (604) 844-2855.
 
 ## Saturday 10/24
 
@@ -66,7 +66,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Flights (STS ⇄ YVR, Alaska)
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [ ] L'Abattoir — Thu 10/22
-- [ ] Five Sails — Fri 10/23 (phone / direct)
+- [x] Five Sails — Fri 10/23, 7:30 PM
 - [ ] Capilano — car or tour, Sat 10/24
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
