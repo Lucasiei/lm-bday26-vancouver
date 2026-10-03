@@ -65,6 +65,8 @@
   .fact .k { font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); }
   .fact .v { font-weight: 600; margin-top: 2px; }
   .fact .s { color: var(--muted); font-size: .9rem; }
+  .flights { display: grid; gap: 4px; margin-top: 8px; font-variant-numeric: tabular-nums; }
+  .fl-label { display: inline-block; min-width: 82px; font-size: .8rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
   .booked { display: inline-block; margin-left: 6px; font-size: .7rem; font-weight: 600; text-transform: uppercase; letter-spacing: .06em; padding: 1px 8px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); vertical-align: 2px; }
   h2 { font-family: Fraunces, Georgia, serif; font-weight: 600; font-size: 1.4rem; margin: 40px 0 14px; }
   .day { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px; margin-bottom: 16px; }
@@ -111,8 +113,8 @@
     </div>
     <div class="fact">
       <div class="k">Flights <span class="booked">Booked</span></div>
-      <div class="v">STS ⇄ YVR, Alaska</div>
-      <div class="s">Round-trip, one stop</div>
+      <div class="v">Land YVR Thu 11:40 AM</div>
+      <div class="s">Depart YVR Mon 12:35 PM · seats 12C/12D</div>
     </div>
   </div>
 
@@ -120,7 +122,8 @@
 
   <section class="day">
     <div class="day-head"><span class="date">Thursday 10/22</span><span class="tag">Arrival</span></div>
-    <div class="slot"><div class="when">Afternoon</div><div class="what">Arrive &amp; check in at Rosewood. Settle in, drop bags, decompress from travel.</div></div>
+    <div class="slot"><div class="when">11:40 AM</div><div class="what"><strong>Land at YVR</strong> <span class="addr">· AS 2225 from Portland, seats 12C/12D</span><br>Clear Canadian customs, then Canada Line to Vancouver City Centre station (about 25 min, a block from the hotel) or a cab.</div></div>
+    <div class="slot"><div class="when">Afternoon</div><div class="what">Check in at Rosewood (drop bags if the room isn't ready yet), grab lunch nearby, settle in and decompress from travel.</div></div>
     <div class="slot"><div class="when">Late afternoon</div><div class="what"><strong><a href="https://www.vanartgallery.bc.ca/visit/">Vancouver Art Gallery</a></strong> <span class="addr">· 750 Hornby St</span><br>Literally across the street from the hotel — easy first stop.</div></div>
     <div class="slot"><div class="when">Evening</div><div class="what">Dinner at <strong><a href="https://www.labattoir.ca/">L'Abattoir</a></strong> <span class="addr">· 217 Carrall St, Gastown</span><br>Acclaimed French-inspired West Coast cooking, short walk from the hotel.</div></div>
   </section>
@@ -151,7 +154,9 @@
 
   <section class="day">
     <div class="day-head"><span class="date">Monday 10/26</span><span class="tag">Departure</span></div>
-    <div class="slot"><div class="when">Morning</div><div class="what">Light breakfast at the hotel (Bel Café), check out, head to YVR.</div></div>
+    <div class="slot"><div class="when">Morning</div><div class="what">Light breakfast at the hotel (Bel Café) and check out.</div></div>
+    <div class="slot"><div class="when">~10:00 AM</div><div class="what"><strong>Leave for YVR</strong><br>Canada Line or cab, about 30 min. Aim to be at the airport 2 hours early for US preclearance.</div></div>
+    <div class="slot"><div class="when">12:35 PM</div><div class="what"><strong>Fly home</strong> <span class="addr">· AS 2321 YVR → PDX, lands 1:53 PM, seats 12C/12D</span></div></div>
   </section>
 
   <h2>Other restaurant options</h2>
@@ -165,7 +170,11 @@
 
   <h2>Travel &amp; stay</h2>
   <ul class="plain">
-    <li><strong>Flights</strong> <span class="booked">Booked</span><br>STS ⇄ YVR round-trip on Alaska Airlines, one stop</li>
+    <li><strong>Flights</strong> <span class="booked">Booked</span><br>STS ⇄ YVR on Alaska Airlines via Portland. Vancouver legs are Horizon Air Embraer 175s, Main Preferred seats 12C (Lucas) and 12D (Genevieve).
+      <div class="flights">
+        <div><span class="fl-label">Thu 10/22</span> AS 2225 · PDX 10:28 AM → YVR 11:40 AM</div>
+        <div><span class="fl-label">Mon 10/26</span> AS 2321 · YVR 12:35 PM → PDX 1:53 PM</div>
+      </div></li>
     <li><strong>Rosewood Hotel Georgia</strong> <span class="booked">Booked</span><br>Thu 10/22 – Mon 10/26, 4 nights</li>
   </ul>
 
