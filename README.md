@@ -17,15 +17,17 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Friday 10/23 — Birthday 🎂
 
-- **Morning** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown) — quiet, beautiful start to the day.
-- **Midday** — Lunch at [Fat Mao Noodles](https://fatmaonoodles.com/) (217 E Georgia St, Chinatown) — the homemade noodle spot, open kitchen, hand-cut noodles.
-- **Afternoon** — Wander Chinatown → Gastown — shops, New Town Bakery for a snack, Steam Clock on the hour.
+- **~9:35 AM** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed; ride ~20–30 min. Early-fall Hyatt pickups ran 8:35–9:35 AM every 15 min, then again from 11:10 AM. *Late-October times may differ — check the [shuttle schedule](https://www.capbridge.com/shuttle-schedule/) the week before.*
+- **Mid-morning** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
+- **~1:30 PM** — Late lunch at [Fat Mao Noodles](https://fatmaonoodles.com/) (217 E Georgia St, Chinatown) — open kitchen, hand-cut noodles; open daily from 11:30 AM.
+- **Afternoon** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St; fall hours close earlier, so check the time), then wander Chinatown → Gastown — shops, New Town Bakery, Steam Clock on the hour. Back to the hotel to change before dinner.
 - **7:30 PM** — Birthday dinner at [Five Sails Restaurant](https://glowbalgroup.com/five-sails/) (999 Canada Place) — **booked ✅**, table for 2 under Lucas Mays. Coal Harbour waterfront views. Restaurant phone: (604) 844-2855.
 
-## Saturday 10/24
+## Saturday 10/24 — Seaplane & Stanley Park
 
-- **~9:00 AM** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed. Early-fall Hyatt pickups were 8:35, 8:50, 9:05, 9:20 and 9:35 AM; ride is ~20–30 min. *Late-October times may differ — check the [shuttle schedule](https://www.capbridge.com/shuttle-schedule/) the week before.*
-- **Morning** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
+- **Morning** — Harbour Air seaplane tour from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — over Stanley Park, Lions Gate Bridge and the North Shore Mountains. *Not booked yet; weather-dependent, so book a morning slot and check the cancellation policy.*
+  - [Classic Panorama](https://www.getyourguide.com/vancouver-l189/classic-vancouver-panorama-tour-by-seaplane-t17883/) — ~20 min in the air, about C$150–190 pp; city, Stanley Park and the mountains.
+  - [Extended Panorama](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) — ~35–45 min in the air, costs more; adds Howe Sound, Horseshoe Bay and Bowen Island.
 - **Midday** — Casual lunch near the West End.
 - **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
@@ -70,7 +72,8 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Flights (STS ⇄ YVR, Alaska)
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [x] Five Sails — Fri 10/23, 7:30 PM
-- [ ] Capilano admission tickets — Sat 10/24 (needed for the return shuttle)
+- [ ] Capilano admission tickets — Fri 10/23 (needed for the return shuttle)
+- [ ] Seaplane tour — Sat 10/24 morning
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
 - [ ] Hawksworth — Sun 10/25
