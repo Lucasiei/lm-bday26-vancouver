@@ -24,9 +24,10 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Saturday 10/24
 
-- **Morning** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
+- **~9:00 AM** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed. Early-fall Hyatt pickups were 8:35, 8:50, 9:05, 9:20 and 9:35 AM; ride is ~20–30 min. *Late-October times may differ — check the [shuttle schedule](https://www.capbridge.com/shuttle-schedule/) the week before.*
+- **Morning** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
 - **Midday** — Casual lunch near the West End.
-- **Afternoon** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — North Shore canyon walk; book a car or tour, ~30 min each way.
+- **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
 
 ## Sunday 10/25
@@ -69,7 +70,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Flights (STS ⇄ YVR, Alaska)
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [x] Five Sails — Fri 10/23, 7:30 PM
-- [ ] Capilano — car or tour, Sat 10/24
+- [ ] Capilano admission tickets — Sat 10/24 (needed for the return shuttle)
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
 - [ ] Hawksworth — Sun 10/25
