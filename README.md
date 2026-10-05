@@ -12,7 +12,10 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **~1:00 PM** — Drop bags at Rosewood (check in if the room is ready).
 - **~1:30 PM** — Lunch at [Fat Mao Noodles Downtown](https://www.yelp.com/biz/fat-mao-noodles-vancouver-2) (983 Helmcken St, ~15 min walk) — Thai noodle soups: khao soi or braised duck noodles, five noodle types. Open Mon–Sat from 11:30 AM.
 - **Afternoon** — Back to the hotel to finish checking in, settle in and decompress.
-- **Late afternoon** — [Vancouver Art Gallery](https://www.vanartgallery.bc.ca/visit/) (750 Hornby St) — literally across the street from the hotel, easy first stop.
+- **Late afternoon** — Robson Square and a downtown wander, starting across the street from the hotel:
+  - **Robson Square** — sunken plaza and terraced steps between Hornby and Howe, next to the Art Gallery; walk south through to the glass-roofed Law Courts atrium.
+  - **Robson Street** — head west past the shops toward Burrard and Thurlow for coffee or a browse.
+  - **Waterfront at sunset** — cut north to Jack Poole Plaza (Olympic cauldron) and the Coal Harbour seawall. Sunset is around 6 PM; Nightingale and Guu are a short walk from there.
 - **Evening** — Casual dinner, play it by ear (nothing booked). Good options close to the hotel:
   - [Nightingale](https://www.opentable.com/r/nightingale-vancouver) (1017 W Hastings St, ~8 min walk) — Hawksworth's casual spot: wood-fired pizza, house-made pasta, shared plates. On OpenTable if you want to grab a table that day.
   - [Guu Original Thurlow](https://guu-izakaya.com/original_qr/) (838 Thurlow St, ~8 min walk) — lively Japanese izakaya, small plates and drinks. Guu Toramasa (757 Seymour St, ~5 min) is even closer.
