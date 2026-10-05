@@ -25,9 +25,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Saturday 10/24 — Seaplane & Stanley Park
 
-- **Morning** — Harbour Air seaplane tour from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — over Stanley Park, Lions Gate Bridge and the North Shore Mountains. *Not booked yet; weather-dependent, so book a morning slot and check the cancellation policy.*
-  - [Classic Panorama](https://www.getyourguide.com/vancouver-l189/classic-vancouver-panorama-tour-by-seaplane-t17883/) — ~20 min in the air, about C$150–190 pp; city, Stanley Park and the mountains.
-  - [Extended Panorama](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) — ~35–45 min in the air, costs more; adds Howe Sound, Horseshoe Bay and Bowen Island.
+- **Morning** — [Harbour Air Extended Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — ~35–45 min in the air: downtown, Stanley Park, Lions Gate Bridge, then up Howe Sound past Horseshoe Bay and Bowen Island. *Not booked yet. Book direct and try promo code SOAR10 (10% off scenic tours, may have expired). Weather-dependent, so book a morning slot and check the cancellation policy.*
 - **Midday** — Casual lunch near the West End.
 - **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
@@ -73,7 +71,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [x] Five Sails — Fri 10/23, 7:30 PM
 - [ ] Capilano admission tickets — Fri 10/23 (needed for the return shuttle)
-- [ ] Seaplane tour — Sat 10/24 morning
+- [ ] Seaplane: Extended Panorama — Sat 10/24 morning (try code SOAR10)
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
 - [ ] Hawksworth — Sun 10/25
