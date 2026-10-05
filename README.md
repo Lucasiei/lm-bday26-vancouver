@@ -25,7 +25,9 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Saturday 10/24 — Seaplane & Stanley Park
 
-- **Morning** — [Harbour Air Extended Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — ~35–45 min in the air: downtown, Stanley Park, Lions Gate Bridge, then up Howe Sound past Horseshoe Bay and Bowen Island. *Not booked yet. Book direct and try promo code SOAR10 (10% off scenic tours, may have expired). Weather-dependent, so book a morning slot and check the cancellation policy.*
+- **Morning** — [Harbour Air Extended Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — ~35–45 min in the air: downtown, Stanley Park, Lions Gate Bridge, then up Howe Sound past Horseshoe Bay and Bowen Island. *Not booked yet. Book direct and try promo code SOAR10 (10% off scenic tours, may have expired).*
+  - **Cancellation policy (passenger changes):** more than 24 hrs before departure, refundable fares can be cancelled for a refund, and changes are allowed with any fare difference. Less than 24 hrs before, no refunds or changes.
+  - **Plan:** check the forecast Friday morning, before the 24-hr cutoff. If it looks bad, move the flight to Sunday morning. Make sure the fare you pick is refundable.
 - **Midday** — Casual lunch near the West End.
 - **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
