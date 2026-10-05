@@ -25,9 +25,9 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Saturday 10/24 — Seaplane & Stanley Park
 
-- **Morning** — [Harbour Air Extended Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/extended-vancouver-panorama-by-seaplane-t17885/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — ~35–45 min in the air: downtown, Stanley Park, Lions Gate Bridge, then up Howe Sound past Horseshoe Bay and Bowen Island. *Not booked yet. Book direct and try promo code SOAR10 (10% off scenic tours, may have expired).*
+- **10:20 AM** — [Harbour Air Classic Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/classic-vancouver-panorama-tour-by-seaplane-t17883/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — **booked ✅**, back 10:40 AM (20 min flight) over downtown, Stanley Park, Lions Gate Bridge and the North Shore Mountains. Scenic Ultimate fare, 2 passengers, booking #11072896, C$418.30 total. Get there early; check the confirmation for check-in time.
   - **Cancellation policy (passenger changes):** more than 24 hrs before departure, refundable fares can be cancelled for a refund, and changes are allowed with any fare difference. Less than 24 hrs before, no refunds or changes.
-  - **Plan:** check the forecast Friday morning, before the 24-hr cutoff. If it looks bad, move the flight to Sunday morning. Make sure the fare you pick is refundable.
+  - **Decide by Friday 10:20 AM** (while at Capilano). If the forecast looks bad, move the flight to Sunday morning before then.
 - **Midday** — Casual lunch near the West End.
 - **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
@@ -73,7 +73,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [x] Five Sails — Fri 10/23, 7:30 PM
 - [ ] Capilano admission tickets — Fri 10/23 (needed for the return shuttle)
-- [ ] Seaplane: Extended Panorama — Sat 10/24 morning (try code SOAR10)
+- [x] Seaplane: Classic Panorama — Sat 10/24, 10:20 AM
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
 - [ ] Hawksworth — Sun 10/25
