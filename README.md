@@ -36,7 +36,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **Midday** — Casual lunch near the West End.
 - **Afternoon (optional)** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles. Skip it if you'd rather take it easy before dinner.
 - **By 3:30 PM (optional)** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown, a few blocks from Bao Bei), then wander Chinatown toward Gastown (New Town Bakery, Steam Clock on the hour) if there's time. *Last entry on Sat 10/24 is 3:30 PM — if you want the garden, keep the Seawall short or skip it.*
-- **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
+- **7:45 PM** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — **booked ✅**, dining room table for 2 under Lucas Mays. Moody, romantic small plates. Tock confirmation: TOCK-R-3VETA35P.
 
 ## Sunday 10/25
 
@@ -80,6 +80,6 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Five Sails — Fri 10/23, 7:30 PM
 - [x] Capilano tickets — Fri 10/23, 11:00 AM entry
 - [x] Seaplane: Classic Panorama — Sat 10/24, 10:20 AM
-- [ ] Bao Bei — Sat 10/24 (Tock)
+- [x] Bao Bei — Sat 10/24, 7:45 PM
 - [ ] Sense spa treatments — Sun 10/25
 - [ ] Hawksworth — Sun 10/25
