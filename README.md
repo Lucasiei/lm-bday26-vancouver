@@ -35,7 +35,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
   - **Decide by Friday 10:20 AM** (just before the Capilano shuttle). If the forecast looks bad, move the flight to Sunday morning before then.
 - **Midday** — Casual lunch near the West End.
 - **Afternoon (optional)** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles. Skip it if you'd rather take it easy before dinner.
-- **Late afternoon (optional)** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown, a few blocks from Bao Bei), then wander Chinatown toward Gastown (New Town Bakery, Steam Clock on the hour) if there's time. *Fall hours close earlier, so check the closing time.*
+- **By 3:30 PM (optional)** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown, a few blocks from Bao Bei), then wander Chinatown toward Gastown (New Town Bakery, Steam Clock on the hour) if there's time. *Last entry on Sat 10/24 is 3:30 PM — if you want the garden, keep the Seawall short or skip it.*
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
 
 ## Sunday 10/25
