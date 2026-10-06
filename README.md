@@ -22,9 +22,9 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Friday 10/23 — Birthday 🎂
 
-- **Mid-morning** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed; ride ~20–30 min. Pick a mid-morning Hyatt departure from the [official shuttle schedule (Oct 2026)](https://www.capbridge.com/wp-content/uploads/2026/10/CSBP_Shuttleschedule_Full.pdf).
-- **Mid-morning** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
-- **~1:30 PM** — Late lunch in Chinatown, play it by ear. Chinatown BBQ (on the other-options list) is nearby for Cantonese roast meats.
+- **10:35 AM** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed; ride ~20–30 min, arriving in time for the 11:00 entry slot. Times from the [official shuttle schedule (Oct 2026)](https://www.capbridge.com/wp-content/uploads/2026/10/CSBP_Shuttleschedule_Full.pdf).
+- **11:00 AM** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — **booked ✅**, entry slot 11:00–11:30 AM, 2 adult tickets (C$153.90). Bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
+- **~2:00 PM** — Late lunch in Chinatown, play it by ear. Chinatown BBQ (on the other-options list) is nearby for Cantonese roast meats.
 - **Afternoon** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St; fall hours close earlier, so check the time), then wander Chinatown → Gastown — shops, New Town Bakery, Steam Clock on the hour. Back to the hotel to change before dinner.
 - **7:30 PM** — Birthday dinner at [Five Sails Restaurant](https://glowbalgroup.com/five-sails/) (999 Canada Place) — **booked ✅**, table for 2 under Lucas Mays. Coal Harbour waterfront views. Restaurant phone: (604) 844-2855.
 
@@ -32,7 +32,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 - **10:20 AM** — [Harbour Air Classic Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/classic-vancouver-panorama-tour-by-seaplane-t17883/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — **booked ✅**, back 10:40 AM (20 min flight) over downtown, Stanley Park, Lions Gate Bridge and the North Shore Mountains. Scenic Ultimate fare, 2 passengers, booking #11072896, C$418.30 total. Get there early; check the confirmation for check-in time.
   - **Cancellation policy (passenger changes):** more than 24 hrs before departure, refundable fares can be cancelled for a refund, and changes are allowed with any fare difference. Less than 24 hrs before, no refunds or changes.
-  - **Decide by Friday 10:20 AM** (while at Capilano). If the forecast looks bad, move the flight to Sunday morning before then.
+  - **Decide by Friday 10:20 AM** (just before the Capilano shuttle). If the forecast looks bad, move the flight to Sunday morning before then.
 - **Midday** — Casual lunch near the West End.
 - **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
@@ -77,7 +77,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Flights (STS ⇄ YVR, Alaska)
 - [x] Rosewood Hotel Georgia, 10/22–10/26
 - [x] Five Sails — Fri 10/23, 7:30 PM
-- [ ] Capilano admission tickets — Fri 10/23 (needed for the return shuttle)
+- [x] Capilano tickets — Fri 10/23, 11:00 AM entry
 - [x] Seaplane: Classic Panorama — Sat 10/24, 10:20 AM
 - [ ] Bao Bei — Sat 10/24 (Tock)
 - [ ] Sense spa treatments — Sun 10/25
