@@ -22,7 +22,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 
 ## Friday 10/23 — Birthday 🎂
 
-- **~9:35 AM** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed; ride ~20–30 min. Early-fall Hyatt pickups ran 8:35–9:35 AM every 15 min, then again from 11:10 AM. *Late-October times may differ — check the [shuttle schedule](https://www.capbridge.com/shuttle-schedule/) the week before.*
+- **Mid-morning** — Free Capilano shuttle from the Hyatt Regency (655 Burrard St, Melville St entrance, ~5 min walk). No booking needed; ride ~20–30 min. Pick a mid-morning Hyatt departure from the [official shuttle schedule (Oct 2026)](https://www.capbridge.com/wp-content/uploads/2026/10/CSBP_Shuttleschedule_Full.pdf).
 - **Mid-morning** — [Capilano Suspension Bridge Park](https://www.capbridge.com/) (3735 Capilano Rd, North Vancouver) — bridge, Treetops Adventure and Cliffwalk; plan 2–2.5 hours, then shuttle back downtown. *Keep your admission ticket — it's required for the return shuttle.*
 - **~1:30 PM** — Late lunch in Chinatown, play it by ear. Chinatown BBQ (on the other-options list) is nearby for Cantonese roast meats.
 - **Afternoon** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St; fall hours close earlier, so check the time), then wander Chinatown → Gastown — shops, New Town Bakery, Steam Clock on the hour. Back to the hotel to change before dinner.
