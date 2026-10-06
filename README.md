@@ -28,13 +28,13 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **Afternoon** — Open afternoon: rest, wander or shop, then back to the hotel to change before dinner.
 - **7:30 PM** — Birthday dinner at [Five Sails Restaurant](https://glowbalgroup.com/five-sails/) (999 Canada Place) — **booked ✅**, table for 2 under Lucas Mays. Coal Harbour waterfront views. Restaurant phone: (604) 844-2855.
 
-## Saturday 10/24 — Seaplane & Stanley Park
+## Saturday 10/24 — Seaplane & Chinatown
 
 - **10:20 AM** — [Harbour Air Classic Panorama seaplane tour](https://www.getyourguide.com/vancouver-l189/classic-vancouver-panorama-tour-by-seaplane-t17883/) from the Vancouver Harbour Flight Centre (1055 Canada Place, ~10 min walk) — **booked ✅**, back 10:40 AM (20 min flight) over downtown, Stanley Park, Lions Gate Bridge and the North Shore Mountains. Scenic Ultimate fare, 2 passengers, booking #11072896, C$418.30 total. Get there early; check the confirmation for check-in time.
   - **Cancellation policy (passenger changes):** more than 24 hrs before departure, refundable fares can be cancelled for a refund, and changes are allowed with any fare difference. Less than 24 hrs before, no refunds or changes.
   - **Decide by Friday 10:20 AM** (just before the Capilano shuttle). If the forecast looks bad, move the flight to Sunday morning before then.
 - **Midday** — Casual lunch near the West End.
-- **Afternoon** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles.
+- **Afternoon (optional)** — Stanley Park Seawall ([info](https://vancouver.ca/parks-recreation-culture/stanley-park.aspx)) — walk or rent bikes, hit the Brockton Point totem poles. Skip it if you'd rather take it easy before dinner.
 - **Late afternoon (optional)** — [Dr. Sun Yat-Sen Classical Chinese Garden](https://vancouverchinesegarden.com/) (578 Carrall St, Chinatown, a few blocks from Bao Bei), then wander Chinatown toward Gastown (New Town Bakery, Steam Clock on the hour) if there's time. *Fall hours close earlier, so check the closing time.*
 - **Evening** — Dinner at [Bao Bei Chinese Brasserie](https://www.bao-bei.ca/) (163 Keefer St, Chinatown) — moody, romantic small plates. *Reservations via Tock.*
 
