@@ -43,7 +43,7 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - **Morning** — [Granville Island Public Market](https://granvilleisland.com/public-market) — Aquabus over, browse the Railspur District behind the market crowds.
 - **Midday** — Lunch at the Market — pick from the food stalls.
 - **Afternoon** — Spa afternoon at Sense, A Rosewood Spa (in-hotel) — saltwater pool, treatments.
-- **Evening** — Final dinner at [Hawksworth Restaurant](https://www.rosewoodhotels.com/en/hotel-georgia-vancouver/dining/hawksworth-restaurant) (in the hotel) — contemporary Canadian from chef David Hawksworth; no travel after the spa. Reservations (604) 673-7000; Sunday dinner service is roughly 4–9 PM, so confirm times when booking.
+- **7:00 PM** — Final dinner at [Hawksworth Restaurant](https://www.rosewoodhotels.com/en/hotel-georgia-vancouver/dining/hawksworth-restaurant) (in the hotel) — **booked ✅**, table for 2 under Lucas Mays. Contemporary Canadian from chef David Hawksworth; no travel after the spa. OpenTable confirmation: 2110150605. Restaurant phone: (604) 673-7000.
 
 ## Monday 10/26 — Departure
 
@@ -82,4 +82,4 @@ A styled version of this itinerary is in [`index.html`](index.html).
 - [x] Seaplane: Classic Panorama — Sat 10/24, 10:20 AM
 - [x] Bao Bei — Sat 10/24, 7:45 PM
 - [ ] Sense spa treatments — Sun 10/25
-- [ ] Hawksworth — Sun 10/25
+- [x] Hawksworth — Sun 10/25, 7:00 PM
